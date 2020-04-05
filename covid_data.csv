@@ -1,5 +1,5 @@
 ,long,lat,group,order,region,subregion,Cases,Travel_Related,Residents,Non.Residents,Not_in_Florida,Total_Tests,Total_Negative,Total_Pending,Total_Positive,Total_Deaths,FIPS,Date,Time,Hospitalizations,n
-1,-82.66062164,29.81672287,290,12216,florida,alachua,93,0,88,5,0,1654,1544,0,93,0,1,4/2/2020,5:48 PM,14,93
+1,-82.66062164,29.81672287,290,12216,florida,alachua,93000,0,88,5,0,1654,1544,0,93,0,1,4/2/2020,5:48 PM,14,93
 2,-82.63770294,29.81672287,290,12217,florida,alachua,93,0,88,5,0,1654,1544,0,93,0,1,4/2/2020,5:48 PM,14,93
 3,-82.62051392,29.84537125,290,12218,florida,alachua,93,0,88,5,0,1654,1544,0,93,0,1,4/2/2020,5:48 PM,14,93
 4,-82.59759521,29.85110283,290,12219,florida,alachua,93,0,88,5,0,1654,1544,0,93,0,1,4/2/2020,5:48 PM,14,93
